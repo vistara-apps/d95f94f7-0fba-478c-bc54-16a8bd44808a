@@ -7,11 +7,11 @@
   "frame": {
     "version": "1",
     "name": "AI Companion & Co-creation",
-    "homeUrl": "https://ai-companion.app",
+    "homeUrl": "https://app-bd44808a-ettl.vercel.app",
     "iconUrl": "https://ai-companion.app/icon.png",
     "splashImageUrl": "https://ai-companion.app/splash.png",
     "splashBackgroundColor": "#0a1929",
-    "webhookUrl": "https://ai-companion.app/api/farcaster-webhook",
+    "webhookUrl": "https://app-bd44808a-ettl.vercel.app/api/webhook",
     "subtitle": "Your personalized AI co-pilot",
     "description": "Create, collaborate, and build onchain reputation with your AI companion on Farcaster and Base",
     "screenshotUrls": [
@@ -20,7 +20,13 @@
       "https://ai-companion.app/screenshot3.png"
     ],
     "primaryCategory": "social",
-    "tags": ["ai", "companion", "co-creation", "farcaster", "base"],
+    "tags": [
+      "ai",
+      "companion",
+      "co-creation",
+      "farcaster",
+      "base"
+    ],
     "heroImageUrl": "https://ai-companion.app/hero.png",
     "tagline": "Co-create with AI on Base",
     "ogTitle": "AI Companion & Co-creation",
